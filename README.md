@@ -1,5 +1,5 @@
 # Data Science Learning Projects
-These are differents Data Science Project that I have did to practice:
+Data Science Projects to practice:
 
 **- Exploratory Data Analysis With Python and Pandas**
 
